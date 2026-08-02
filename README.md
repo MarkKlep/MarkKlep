@@ -1,28 +1,14 @@
-# Hi there, I'm Mark 👋
-
-### Full-Stack Software Engineer 
-
-* 💻 Based in **Warsaw, Poland**[cite: 1]
-* 🚀 Professional experience building web applications with **Angular, React, Node.js, TypeScript, and JavaScript**[cite: 1]
-* 🏆 LeetCode **top 1%** users[cite: 1]
-* ✉️ Reach me at [markklepanchuk@gmail.com](mailto:markklepanchuk@gmail.com)[cite: 1]
-
----
-
-### 🛠️ Tech Stack & Tools
-* **Languages:** JavaScript, TypeScript, Python, SQL, C, C++[cite: 1]
-* **Frontend:** Angular, React, HTML, CSS/SCSS, RxJS, Tailwind CSS, webpack, vite[cite: 1]
-* **Backend & Databases:** Node.js, Express.js, Strapi, MongoDB, REST APIs, GraphQL [.NET][cite: 1]
-* **DevOps & Workflow:** Git, Docker, CI/CD, JIRA, Figma, Cursor, Windsurf[cite: 1]
-
----
-
-### 💼 Experience Highlights
-* **Software Engineer at DataArt:**
-* **Software Engineer at HYS Enterprise:**
-* **Full-Stack Developer at Mocoding:**
-
----
-
-### 🌐 Connect with Me
-* [LeetCode Profile](https://leetcode.com)[cite: 1]
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
