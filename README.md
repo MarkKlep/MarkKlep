@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Mark 👋
 
-<!--
-**MarkKlep/MarkKlep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Engineer 
 
-Here are some ideas to get you started:
+* 💻 Based in **Warsaw, Poland**[cite: 1]
+* 🚀 Professional experience building web applications with **Angular, React, Node.js, TypeScript, and JavaScript**[cite: 1]
+* 🏆 LeetCode **top 1%** users[cite: 1]
+* ✉️ Reach me at [markklepanchuk@gmail.com](mailto:markklepanchuk@gmail.com)[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, TypeScript, Python, SQL, C, C++[cite: 1]
+* **Frontend:** Angular, React, HTML, CSS/SCSS, RxJS, Tailwind CSS, webpack, vite[cite: 1]
+* **Backend & Databases:** Node.js, Express.js, Strapi, MongoDB, REST APIs, GraphQL [.NET][cite: 1]
+* **DevOps & Workflow:** Git, Docker, CI/CD, JIRA, Figma, Cursor, Windsurf[cite: 1]
+
+---
+
+### 💼 Experience Highlights
+* **Software Engineer at DataArt:**
+* **Software Engineer at HYS Enterprise:**
+* **Full-Stack Developer at Mocoding & Freelance:**
+
+---
+
+### 🌐 Connect with Me
+* [LeetCode Profile](https://leetcode.com)[cite: 1]
