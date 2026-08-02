@@ -20,7 +20,7 @@
 ### 💼 Experience Highlights
 * **Software Engineer at DataArt:**
 * **Software Engineer at HYS Enterprise:**
-* **Full-Stack Developer at Mocoding & Freelance:**
+* **Full-Stack Developer at Mocoding:**
 
 ---
 
